@@ -37,8 +37,6 @@ namespace graph{
 			return find(x) == find(y);
 		}
 
-
-
 	private:
 		//êe
 		vector<int> par;
